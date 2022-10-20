@@ -11,7 +11,7 @@
         </license>
     </licenses>
 
-	<modelVersion>5.0.0</modelVersion>
+	<modelVersion>4.0.0</modelVersion>
   
   <groupId>kig1</groupId>
   <artifactId>kigpro1</artifactId>
